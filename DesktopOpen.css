@@ -110,7 +110,7 @@ input[type = 'submit'] {
 
 @media only screen and (min-width: 768px) {
     body {
-        background: url("comingSoonShoesFrame.png");
+        background: url("https://github.com/rksobers/Freemote/blob/main/comingSoonShoesFrame.png?raw=true");
         background-size: cover;
     }
 
