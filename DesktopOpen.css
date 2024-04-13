@@ -132,7 +132,7 @@ input[type = 'submit'] {
 
     .desktop-image {
         display: block;
-        background: url("AssetProvidedshoes.png") no-repeat right top;
+        background: url("https://github.com/rksobers/Freemote/blob/main/AssetProvidedshoes.png?raw=true") no-repeat right top;
         background-size: cover;
         width: 50%;
         clip-path:polygon(0 0, 100% 0, 100% 100%, 0 100%);
